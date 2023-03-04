@@ -1,6 +1,5 @@
-# Deep-associaative-Classifier
+# Deep Associative Classifier
 
-# Classification by Frequent Association rules
 This repo contains the implementation of paper: ”Deep Associative Classifier”, accepted in The 2022 IEEE International Conference on Knowledge Graph (ICKG)
 
 # Set Up
