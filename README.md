@@ -1,6 +1,6 @@
 # Deep Associative Classifier
 
-This repo contains the implementation of paper: ”Deep Associative Classifier”, accepted in The 2022 IEEE International Conference on Knowledge Graph (ICKG)
+This repo contains the implementation of paper: ”Deep Associative Classifier”, published in The 2022 IEEE International Conference on Knowledge Graph (ICKG)
 
 # Set Up
 ```
